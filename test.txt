@@ -1,0 +1,7 @@
+#include <UIKit/UIKit.h>
+
+hello git 
+
+git  init 初始化
+
+git add 文件名  给文件添加快照，文件由“已修改”->“已暂存”
